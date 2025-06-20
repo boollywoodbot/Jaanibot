@@ -3,7 +3,7 @@ mport os
 # Required Environment Variables
 API_ID = int(os.environ.get("API_ID", "21905616"))
 API_HASH = os.environ.get("API_HASH", "0506d1a8b04f4c580c369b47c885bbd4")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7795598337:AAHVYGMzHr7A2mIhorHHJmyO-qrgByJJIUE")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8126788658:AAFd57pq2CiSn0-T1c51ig79ji4k230nrH4")
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Txtcobrabot")
 OWNER_ID = int(os.environ.get("OWNER_ID", "7912270773"))
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-100"))
