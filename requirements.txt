@@ -1,1 +1,18 @@
-# Placeholder for requirements.txt
+pyrogram==2.0.106
+pyromod==1.5
+tgcrypto
+aiohttp
+aiofiles
+requests
+hachoir
+cloudscraper
+pycryptodome
+pytz
+motor
+PyJWT
+beautifulsoup4
+httpx
+tqdm
+colorama
+termcolor
+python-dotenv
