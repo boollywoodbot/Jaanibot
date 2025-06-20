@@ -1,4 +1,4 @@
-mport os
+import os
 
 # Required Environment Variables
 API_ID = int(os.environ.get("API_ID", "21905616"))
