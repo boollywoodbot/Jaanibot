@@ -26,7 +26,7 @@ def run_bot():
         print(f"Unexpected error in bot process: {e}")
         sys.exit(1)
 
-if name == "__main__":  # ✅ FIXED THIS LINE
+if name == "__main__":
     # 1) Load .env locally; on Heroku this is a no-op since env vars are already set
     load_dotenv()
 
